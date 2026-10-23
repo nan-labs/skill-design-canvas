@@ -1,0 +1,13 @@
+{
+  "name": "takes",
+  "description": "Takes skills for design agents",
+  "owner": { "name": "Ronan Flynn-Curran" },
+  "plugins": [
+    {
+      "name": "takes-canvas-etiquette",
+      "source": "./",
+      "description": "Canvas etiquette for design agents working in a shared design canvas.",
+      "version": "0.2.0"
+    }
+  ]
+}
