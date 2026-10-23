@@ -1,5 +1,5 @@
 ---
-name: takes-canvas-etiquette
+name: skill-design-canvas
 description: >-
   Canvas etiquette for design agents working in a shared design canvas file
   (any tool with boards or frames on an infinite canvas).
@@ -13,7 +13,6 @@ license: MIT
 metadata:
   version: "0.2.0"
   author: Ronan Flynn-Curran
-  homepage: https://takes.design
 ---
 # Canvas etiquette for design agents
 

@@ -1,9 +1,9 @@
 {
-  "name": "takes-canvas-etiquette",
+  "name": "skill-design-canvas",
   "version": "0.2.0",
   "description": "Canvas etiquette for design agents working in a shared design canvas.",
   "author": { "name": "Ronan Flynn-Curran" },
-  "homepage": "https://takes.design",
-  "repository": "https://github.com/nan-labs/takes-canvas-etiquette",
+  "homepage": "https://github.com/nan-labs/skill-design-canvas",
+  "repository": "https://github.com/nan-labs/skill-design-canvas",
   "license": "MIT"
 }
